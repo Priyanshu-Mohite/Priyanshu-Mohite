@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Priyanshu
 
-<!--
-**Priyanshu-Mohite/Priyanshu-Mohite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Backend Enthusiast
+
+📚 Solved 500+ DSA Problems
+
+## Tech Stack
+
+- C++
+- C
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+- Redis
+- WebRTC
+- Mediasoup
+- Redux Toolkit
+- SQL
+
+## Currently Working On
+
+- WebRTC SFU Video Conferencing
+- System Design
+- Backend Development
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/priyanshu-mohite-374461323/
+- Email: priyanshu.mohite07@gmail.com
